@@ -26,6 +26,3 @@ We thank the following repos providing helpful components/functions in our work.
 - [CODA-Prompt](https://github.com/GT-RIPL/CODA-Prompt)
 
 - [CGE](https://github.com/ExplainableML/czsl)
-
-## Support Ukraine 🇺🇦 and Free Palestine 🇵🇸
-I oppose any form of military invasion and massacre and strongly condemn the heinous actions of Russia and Israel. The world needs peace.

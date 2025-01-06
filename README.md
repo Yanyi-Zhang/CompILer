@@ -35,7 +35,7 @@ matplotlib==3.5.3
 
 ## Data preparation
 
-The propsoed datasets Split-Clothing and Split-UT-Zappos can be download from [here](`https://drive.google.com/file/d/1QtD8mb6_vXrRrphgQ7JNIXcHWCwDS7VD/view?usp=sharing`) and [here](`https://drive.google.com/file/d/1nMLq5egLJukvGt4KOMX4jM9JfATpAY2x/view?usp=sharing`) respectively.
+The propsoed datasets Split-Clothing and Split-UT-Zappos can be download from [here](https://drive.google.com/file/d/1QtD8mb6_vXrRrphgQ7JNIXcHWCwDS7VD/view?usp=sharing) and [here](https://drive.google.com/file/d/1nMLq5egLJukvGt4KOMX4jM9JfATpAY2x/view?usp=sharing) respectively.
 
 ## Instructions on running CompILer
 

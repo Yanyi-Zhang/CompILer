@@ -1,6 +1,8 @@
 # Not Just Object, But State: Compositional Incremental Learning without Forgetting (NeurIPS 2024)
 
-PyTorch code for the NeurIPS 2024 paper:
+Hey there!
+
+This is PyTorch code for the NeurIPS 2024 paper:
 **Not Just Object, But State: Compositional Incremental Learning without Forgetting**
 *Yanyi Zhang, Binglin Qiu, Qi Jia, Yu Liu, Ran He*
 NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems

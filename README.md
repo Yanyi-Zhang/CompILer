@@ -2,10 +2,11 @@
 
 Hey there!
 
-This is PyTorch code for the NeurIPS 2024 paper:
-**Not Just Object, But State: Compositional Incremental Learning without Forgetting**
-*Yanyi Zhang, Binglin Qiu, Qi Jia, Yu Liu, Ran He*
-NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems
+This is PyTorch code for the NeurIPS 2024 paper:\
+**Not Just Object, But State: Compositional Incremental Learning without Forgetting**\
+*Yanyi Zhang, Binglin Qiu, Qi Jia, Yu Liu, Ran He*\
+NeurIPS 2024, the Thirty-Eighth Annual Conference on Neural Information Processing Systems\
+[[arXiv]]
 
 ## Environment
 
@@ -69,3 +70,5 @@ We thank the following repos providing helpful components/functions in our work.
 - [L2P](https://github.com/google-research/l2p)
 - [CODA-Prompt](https://github.com/GT-RIPL/CODA-Prompt)
 - [CGE](https://github.com/ExplainableML/czsl)
+
+[arXiv]: https://arxiv.org/abs/2411.01739
